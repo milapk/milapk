@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Milap</h1>
 - 🔭 I’m currently working on [Playlist Mixer](github.com/milapk/Playlist-Mixer)
-
-- 📫 How to reach me **mkeshwala06@gmail.com**
+-📫 How to reach me **mkeshwala06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
