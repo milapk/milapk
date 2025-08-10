@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My names Milap and I'm studying Computer Science at Uni of York, currenlty on my 2nd year.</p>
+<p align="left">My names Milap and I'm studying Computer Science at Uni of York, currently on my 2nd year.</p>
 
 ###
 
