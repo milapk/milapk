@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning django and react<br>🎯 Goals: Create some code that people will actually use<br>🎲 Fun fact: There is no fun fact</p>
+<p align="left">I'm currently working on 6 Seats Open which is a online multiplayer poker app<br>🎯 Goals: For people to use my code<br>🎲 Fun fact: There is no fun fact</p>
 
 ###
 
