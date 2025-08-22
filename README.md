@@ -22,14 +22,14 @@ I'm studying Computer Science at Uni of York, currently on my 2nd year.
   
   - An online multiplayer Poker platform with no real money at stake allowing you play your favourite card game without stress.
   - [Currently in Development]
-  - [Check it out here!](github.com/milapk/6-Seats-Open)
+  - [Check it out here!](https://github.com/milapk/6-Seats-Open)
 
   <br>
 
   Playlist Mixer:
 
   - Playlist Mixer is a collaborative music playlist web app that lets you listen to songs in a playlist in sync with friends.
-  - [Check it out here!](github.com/milapk/Playlist-Mixer)
+  - [Check it out here!](https://github.com/milapk/Playlist-Mixer)
 
 
   <br>  
