@@ -30,3 +30,11 @@ I'm studying Computer Science at Uni of York, currently on my 2nd year.
   - Playlist Mixer is a collaborative music playlist web app that lets you listen to songs in a playlist in sync with friends.
   - [Check it out here!](https://github.com/milapk/Playlist-Mixer)
 
+  <br>
+  
+  Coverd:
+  - Duo project with [Shub](https://github.com/Shubham-Grg555)
+  - View your spotify listening patterns. Think spotify wrapped but at any time of the year.
+  - Create a mosiac containing the cover art of all the songs in you playlist. 
+  - [Check it out here!](https://github.com/Milap-and-Shubham/Coverd)
+
