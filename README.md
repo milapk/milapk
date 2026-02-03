@@ -3,7 +3,6 @@
 ###
 
 I'm studying Computer Science at Uni of York, currently on my 2nd year.
-<br>I'm currently working on 6 Seats Open which is a online multiplayer poker app.
 
 ###
 
